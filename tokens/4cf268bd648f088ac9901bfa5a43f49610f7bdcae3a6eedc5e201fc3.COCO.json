@@ -1,0 +1,9 @@
+{
+    "policyId": "4cf268bd648f088ac9901bfa5a43f49610f7bdcae3a6eedc5e201fc3",
+    "name": "COCO",
+    "symbol": "COCO",
+    "website": "https://muesliswap.com",
+    "description": "The coin for the first CNFT rugpull in history.",
+    "totalSupply": 1000000000,
+    "amounts": [100, 1000, 10000, 100000,1000000]
+}
